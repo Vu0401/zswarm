@@ -17,7 +17,7 @@ class Agent(BaseModel):
     instructions: Union[str, Callable[[], str]] = "You are a helpful agent."
     functions: List[AgentFunction] = []
     tool_choice: str = "auto"
-    parallel_tool_calls: bool = False
+    parallel_tool_calls: bool = True
     model_config: dict = {}
 
 

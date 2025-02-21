@@ -1,4 +1,4 @@
-# Vswarm (Extended version of Swarm)
+# Zswarm (Extended version of Swarm)
 
 An educational framework [Swarm](https://github.com/openai/swarm) exploring ergonomic, lightweight multi-agent orchestration with integrated support for multiple providers from [Litellm](https://github.com/BerriAI/litellm?tab=readme-ov-file#supported-providers-docs) (including **OpenAI**, **Gemini**, **Ollama** and other providers).
 
